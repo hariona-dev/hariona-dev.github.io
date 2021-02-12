@@ -1,0 +1,124 @@
+{
+  "mods": [
+    {
+      "name": "blocklings-6.0.1.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/blocklings-6.0.1.jar",
+      "sha1": "04ba2f6cdd81564761196af501a773e7b17b4b5b",
+      "size": 392301
+    },
+    {
+      "name": "chameleon-1.12-4.1.3.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/chameleon-1.12-4.1.3.jar",
+      "sha1": "5ed3dd5fd1ebded57bfe525b4ece11232bd14e5e",
+      "size": 96859
+    },
+    {
+      "name": "codechickenlib-3.2.3.358.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/codechickenlib-3.2.3.358.jar",
+      "sha1": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
+      "size": 704330
+    },
+    {
+      "name": "customnpcs-1.12.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/customnpcs-1.12.jar",
+      "sha1": "112b081499e2439a23f73fe5673fe1f50716f81f",
+      "size": 10440159
+    },
+    {
+      "name": "discord-rpc.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/discord-rpc.jar",
+      "sha1": "d5d6adb11d48813b368d6265c34bfa8f936b97d7",
+      "size": 1706638
+    },
+    {
+      "name": "dshuds-1.12.2-3.6.0.0.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/dshuds-1.12.2-3.6.0.0.jar",
+      "sha1": "017d7b1ded52ea61561457d29c337d065c2dd8ff",
+      "size": 96279
+    },
+    {
+      "name": "fossil-1.0.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/fossil-1.0.jar",
+      "sha1": "33d3acd544b6e61754b116ee75bc5026a5fc134b",
+      "size": 118020
+    },
+    {
+      "name": "harionalevel-0.0.0.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/harionalevel-0.0.0.jar",
+      "sha1": "52ace8a9c4a30ff540d0f2577a70a35f6d996410",
+      "size": 3076224
+    },
+    {
+      "name": "harionamenu-custom-menu.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/harionamenu-custom-menu.jar",
+      "sha1": "bc09a5f72408706f84fa634c2e0ff38eb490b1ae",
+      "size": 1967642
+    },
+    {
+      "name": "harionamod-0.0.0.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/harionamod-0.0.0.jar",
+      "sha1": "9e9838b7bc969e43ac17cba1465b738f6c49472d",
+      "size": 512174
+    },
+    {
+      "name": "ironchest-0.0.0.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/ironchest-0.0.0.jar",
+      "sha1": "adc4c785a484c5d5a4ab9a29e1937faeed4312dd",
+      "size": 956692
+    },
+    {
+      "name": "jei-4.15.0.296.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/jei-4.15.0.296.jar",
+      "sha1": "05554fafd70fac24fabdc64fe9a7a278260d667e",
+      "size": 653115
+    },
+    {
+      "name": "mobends-1.0.0-beta-20.06.20.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/mobends-1.0.0-beta-20.06.20.jar",
+      "sha1": "175d860ec95c6fd47a13f3f032b0786dbe2e65fc",
+      "size": 703346
+    },
+    {
+      "name": "nei-2.4.3.245.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/nei-2.4.3.245.jar",
+      "sha1": "3a2b36219576a8bbe4abd89476393c4c04e379b9",
+      "size": 470831
+    },
+    {
+      "name": "offlineskins-1.12.2-v6.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/offlineskins-1.12.2-v6.jar",
+      "sha1": "4899de0ca7e86f53adc27c697338e82faa034642",
+      "size": 108944
+    },
+    {
+      "name": "optifine-1.12.2_HD_U_F5.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/optifine-1.12.2_HD_U_F5.jar",
+      "sha1": "5ac2d85797d1f6b074e640b84550c00937ff9ae3",
+      "size": 2387431
+    },
+    {
+      "name": "orelib-1.12.2-3.6.0.1.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/orelib-1.12.2-3.6.0.1.jar",
+      "sha1": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8",
+      "size": 341728
+    },
+    {
+      "name": "secretroomsmod-5.6.4.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/secretroomsmod-5.6.4.jar",
+      "sha1": "2a85061dbfe548b4c20ee495ae5835fadf8d9dfd",
+      "size": 343453
+    },
+    {
+      "name": "storagedrawers-1.12.2-5.4.2.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/storagedrawers-1.12.2-5.4.2.jar",
+      "sha1": "c3f370ed6c158726061211334cbb72fd53f30364",
+      "size": 605947
+    },
+    {
+      "name": "worldedit-6.1.10-SNAPSHOT;e6b38e8.jar",
+      "downloadURL": "https://hariona-dev.github.io/launcher/mods/worldedit-6.1.10-SNAPSHOT;e6b38e8.jar",
+      "sha1": "17314bdab33678478af060d2156338ee34db8a09",
+      "size": 1479535
+    }
+  ]
+}
